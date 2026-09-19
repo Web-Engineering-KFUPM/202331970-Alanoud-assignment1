@@ -15,3 +15,7 @@ git push -u origin main
 helping in the classes 
 
 explainig {form action="#" method="POST" id="contact-form">}
+
+asked gemini for css tamplte 
+
+ object-fit: cover; to prevents images from stretching weirdly
