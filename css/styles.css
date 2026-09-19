@@ -197,3 +197,21 @@ body.dark-theme {
     background-color: #0f172a;
     color: #e2e8f0;
 }
+
+body.dark-theme .about-content,
+body.dark-theme .project-card,
+body.dark-theme #contact {
+    background-color: #1e293b;
+    border-color: #334155;
+}
+
+body.dark-theme .project-card p {
+    color: #94a3b8;
+}
+
+body.dark-theme .form-group input, 
+body.dark-theme .form-group textarea {
+    background-color: #0f172a;
+    color: #e2e8f0;
+    border-color: #475569;
+}
