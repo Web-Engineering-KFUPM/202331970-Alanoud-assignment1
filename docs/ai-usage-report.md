@@ -12,3 +12,6 @@ git branch -M main
 git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
 git push -u origin main
 
+helping in the classes 
+
+explainig {form action="#" method="POST" id="contact-form">}
