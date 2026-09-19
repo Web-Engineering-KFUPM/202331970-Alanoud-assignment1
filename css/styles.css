@@ -192,3 +192,8 @@ footer {
     border-radius: 4px;
     margin-bottom: 1rem;
 }
+
+body.dark-theme {
+    background-color: #0f172a;
+    color: #e2e8f0;
+}
